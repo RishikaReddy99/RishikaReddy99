@@ -22,7 +22,7 @@ Customer Retention & Revenue Protection
 
 Business Outcome: Identified key churn drivers, revenue leakage, customer lifecycle risks, and actionable retention strategies through an executive decision-support dashboard.
 
-### 📈 [Customer Funnel Optimization] (repository-link)
+### 📈 [Customer Funnel Optimization] [(repository-link)](https://github.com/RishikaReddy99/customer-funnel-optimization-business-analysis)
 
 Customer Acquisition & Conversion Analytics
 
