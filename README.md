@@ -8,7 +8,7 @@ I build end-to-end Business Analysis case studies covering stakeholder analysis,
 
 ## 🚀 Featured Business Analysis Case Studies
 
-### 📊 [RavenStack SaaS Customer Churn Intelligence] (repository-link)
+### 📊 [RavenStack SaaS Customer Churn Intelligence] [(repository-link)](https://github.com/RishikaReddy99/RavenStack-SaaS-Customer-Churn-Intelligence/tree/main)
 
 Customer Retention & Revenue Protection
 
